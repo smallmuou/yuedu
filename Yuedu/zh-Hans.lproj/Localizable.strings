@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  Yuedu
+
+  Created by xuwf on 13-10-16.
+  Copyright (c) 2013年 xuwf. All rights reserved.
+*/
+
+"home"                      = "首页";
+"favor"                     = "收藏";
+"playlist"                  = "列表";
+"categories"                = "频道";
+"search"                    = "搜索";
+"settings"                  = "设置";
+"download"                  = "下载";
+
+"back"                      = "返回";
+"author"                    = "作者";
+"player"                    = "主播";
+"downloading"               = "正在下载";
+"downloaded"                = "已下载";
+
+"message"                   = "消息";
+"clear_all"                 = "清空所有";
+"clear_downloaded"          = "清空已下载";
+"clear_downloading"         = "清空正在下载";
+"clear_all_prompt"          = "您确定清空所有项目?";
+"clear_downloaded_prompt"   = "您确定清空已下载项目?";
+"clear_downloading_prompt"  = "您确定清空正在下载项目?";
+
+"download_all"              = "下载所有";
+"download_all_prompt"       = "您确定下载所有项目?";
+
+
+"ok"                        = "确认";
+"cancel"                    = "取消";
+
+"task_pulldown_prompt"      = "下拉切换选项，释放确定选择";
+
+"preferences"               = "偏好";
+"about"                     = "关于";
+
+"sleep_timer"               = "定时";
+"auto_play"                 = "自动播放";
+"auto_download"             = "自动下载";
+"clean_history"             = "清空历史";
+"version"                   = "版本";
+"close"                     = "关";

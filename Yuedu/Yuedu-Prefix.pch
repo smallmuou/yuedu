@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the 'Yuedu' target in the 'Yuedu' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <AVFoundation/AVFoundation.h>
+    #import <MediaPlayer/MediaPlayer.h>
+    #import "MMDrawerController.h"
+    #import "UIViewController+MMDrawerController.h"
+    #import "YDAppDelegate.h"
+    #import "Foundation.h"
+    #import "Model.h"
+    #import "View.h"
+#endif
+
+#include "superio.h"
+

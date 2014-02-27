@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  Yuedu
+
+  Created by xuwf on 13-10-16.
+  Copyright (c) 2013年 xuwf. All rights reserved.
+*/
+
+"home"                      = "Home";
+"favor"                     = "Favor";
+"playlist"                  = "Playlist";
+"categories"                = "Channels";
+"search"                    = "Search";
+"settings"                  = "Settings";
+"download"                  = "Download";
+
+"back"                      = "Back";
+"author"                    = "Author";
+"player"                    = "Player";
+
+"downloading"               = "Downloading";
+"downloaded"                = "Downloaded";
+
+"message"                   = "Message";
+"clear_all"                 = "Clear All";
+"clear_downloaded"          = "Clear Downloaded";
+"clear_downloading"         = "Clear Downloading";
+"clear_all_prompt"          = "Are you sure you want to delete all items?";
+"clear_downloaded_prompt"   = "Are you sure you want to delete downloaded items?";
+"clear_downloading_prompt"  = "Are you sure you want to delete downloading items?";
+
+"download_all"              = "Download All";
+"download_all_prompt"       = "Are you sure you want to download all items?";
+
+
+"ok"                        = "OK";
+"cancel"                    = "Cancel";
+
+"task_pulldown_prompt"      = "Pull down to switch option, Release to select";
+
+"preferences"               = "PREFERENCES";
+"about"                     = "ABOUT";
+
+"sleep_timer"               = "Sleep Timer";
+"auto_play"                 = "Auto Play";
+"auto_download"             = "Auto Download";
+"clean_history"             = "Clean History";
+"version"                   = "Version";
+"close"                     = "Close";
+
